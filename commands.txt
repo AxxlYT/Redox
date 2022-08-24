@@ -1,0 +1,16 @@
+PREFIX: Redox
+WARNING!!! You must say "Redox" at the beginning of every command otherwise Redox will fail. You may change the prefix at your discretion
+
+==Commands==
+
+"Redox, What TIME Is it?" Time must be in <time> command 
+"Redox, WHO IS "Elon Musk?" WHO IS, must be in <who is> command- WHO IS, is exclusively for people.
+"Redox, WHAT IS an African Grey?" WHAT IS, is exclusively for animals.
+"Redox, TELL ME A JOKE." JOKE must be included in <joke> command
+"Redox, PLAY: 'Song'." PLAY, is exclusivley for SONGS.
+
+You may add your own commands at your discretion.
+
+Happy coding!
+
+AxxlJGR#7907 
